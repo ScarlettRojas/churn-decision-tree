@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Churn – Decision Tree (Explainable Classifier)
 
 This repository contains my Jupyter notebook for **customer churn prediction** using a **Decision Tree**.  
